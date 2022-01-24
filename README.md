@@ -6,3 +6,4 @@
 ### pip install uvicorn
 ### pip installl numpy 
 ### pip install pandas 
+### link to the to the fastapi is -
