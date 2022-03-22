@@ -7,6 +7,6 @@ The dependecies used in the project are fastapi, uvicorn, pandas, numpy and to u
 To be able to  use the library needed
     pip install fastapi
     pip install uvicorn
-### pip installl numpy 
-### pip install pandas 
+    pip installl numpy 
+     pip install pandas 
 ### link to the to the fastapi is -
